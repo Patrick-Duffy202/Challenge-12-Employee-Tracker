@@ -3,8 +3,8 @@ VALUES
     ('John', 'Jones', 1, null),
     ('Tim', 'Rosberg', 2, 1),
     ('Frank', 'Murphy', 2, 1),
-    ('Taylor', 'Sharp', 3, 1),
-    ('Karen', 'Connors', 4, 1),
+    ('Taylor', 'Sharp', 4, 1),
+    ('Karen', 'Connors', 3, 1),
     ('Sherry', 'Davis', 5, 2),
     ('Don', 'Johnson', 6, null);
 
